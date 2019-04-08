@@ -3,7 +3,7 @@
 import UIKit
 
 @IBDesignable class FloatLabelTextField: UITextField {
-	let animationDuration = 0.3
+	let animationDuration = 0.5
 	var title = UILabel()
 	
 	// MARK:- Properties
